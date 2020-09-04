@@ -1,0 +1,32 @@
+{
+  "name": "aws-polly",
+  "version": "1.0.0",
+  "description": "AWS Polly script used by NPX",
+  "main": "src/script.js",
+  "dependencies": {
+    "aws-sdk": "^2.746.0",
+    "child_process": "^1.0.2",
+    "dotenv": "^8.2.0",
+    "fs": "^0.0.1-security",
+    "minimist": "^1.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c4sv/aws-polly.git"
+  },
+  "keywords": [
+    "aws-sdk",
+    "polly",
+    "asterisk"
+  ],
+  "author": "Lucas Virgilio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/c4sv/aws-polly/issues"
+  },
+  "homepage": "https://github.com/c4sv/aws-polly#readme"
+}
